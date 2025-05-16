@@ -19,5 +19,3 @@ Instead of the standard procedure of using a dedicated omr scanner which needs a
 - Supports options from A to E based on x-axis positioning
 
 ---
-
-#![Output](output.png)
