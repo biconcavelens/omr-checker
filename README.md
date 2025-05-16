@@ -19,3 +19,15 @@ Instead of the standard procedure of using a dedicated omr scanner which needs a
 - Supports options from A to E based on x-axis positioning
 
 ---
+
+## 🛠️ Requirements
+
+    Python 3.7+
+
+    OpenCV
+
+    NumPy
+
+Install dependencies:
+```
+pip install opencv-python numpy```
